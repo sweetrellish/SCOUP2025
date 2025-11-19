@@ -1,4 +1,9 @@
 # COSC 425: Software Engineering Project 2025 - SCOUP
+## Team Members
+*  **Josh Ellis** - *Team Lead, client manager, back-end support, software dev*
+*  **Ryan Ellis** - *Server Host, back-end dev, task master/meeting keeper*
+*  **Ope Adegoke** - *Web dev, software dev, front-end*
+*  **Aarti Patel** - *Web dev, software dev, front-end* 
 
 ## Project Description
 
