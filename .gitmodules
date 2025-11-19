@@ -1,0 +1,6 @@
+[submodule "AI-Taxonomy"]
+	path = AI-Taxonomy
+	url = https://github.com/sweetrellish/2024Fall-AITaxonomy-Front.git
+[submodule "AcademicMetrics"]
+	path = AcademicMetrics
+	url = https://github.com/sweetrellish/2024Fall-COSC425-AcademicMetrics.git
