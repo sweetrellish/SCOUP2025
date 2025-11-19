@@ -23,4 +23,4 @@ This repository serves as a parent project (using Git submodules) for our team's
 Because this repository uses submodules, you must use a specific command to clone it *and* initialize the submodules at the same time:
 
 ```bash
-git clone --recursive git@github.com:sweetrellish/COSC425-Project-Sandbox.git
+git clone --recursive git@github.com:sweetrellish/SCOUP2025.git
